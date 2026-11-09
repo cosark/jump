@@ -108,6 +108,10 @@ composer install --no-dev
 
 Make sure you have created a cache directory and given the web user permission to write to it, the cache directory should match your `config.php` entry for `cachedir`.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Jump/)
+
 ## Configuration
 
 ### Environment variables
